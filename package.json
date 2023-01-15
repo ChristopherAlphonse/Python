@@ -1,0 +1,21 @@
+{
+  "name": "python",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "call .venv/Scripts/Activate.ps1 & nodemon main.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristopherAlphonse/Python.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristopherAlphonse/Python/issues"
+  },
+  "homepage": "https://github.com/ChristopherAlphonse/Python#readme"
+}

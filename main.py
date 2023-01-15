@@ -1,8 +1,8 @@
-# first_name = "Chris"
-# last_name = "Alphonse"
+# # first_name = "Chris"
+# # last_name = "Alphonse"
 
-# full_name = first_name + " " + last_name
-# print(full_name)
+# # full_name = first_name + " " + last_name
+# # print(full_name)
 
 
 # age = 25
@@ -12,4 +12,4 @@
 # # same data type needed for concatenation
 
 
-# float = decimal number
+# # float = decimal number
